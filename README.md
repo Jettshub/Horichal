@@ -1,2 +1,0 @@
-# Horichal
-optimization
