@@ -8,8 +8,8 @@ Provides a service to businesses who want quick and efficient setup online.  Thi
 * HTML
 
 ## Screenshots 
-![Screenshot](./Develop/assets/images/Horichal1.png)
-![Screenshot](./Develop/assets/images/Horichal2.png)
+![Screenshot](./assets/images/Horichal1.png)
+![Screenshot](./assets/images/Horichal2.png)
 
 ## Website
 https://jettshub.github.io/Horichal/
