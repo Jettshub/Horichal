@@ -12,7 +12,7 @@ Provides a service to businesses who want quick and efficient setup online.  Thi
 ![Screenshot](./Develop/assets/images/Horichal2.png)
 
 ## Website
-
+https://jettshub.github.io/Horichal/
 
 ## Contributors
 * Jett Huffhines 
